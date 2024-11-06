@@ -15,6 +15,8 @@ const port = process.env.PORT;
 
 connectDB();
 
+app.get("/", (req, res) => res.send("Task for SP1"));
+
 app.get("/files", getFileCount);
 
 app.post("/upload", upload.array("files"), fileUpload);
