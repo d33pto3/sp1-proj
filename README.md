@@ -19,7 +19,7 @@ First clone the repo.
 3. Start the backend server:
 
    ```bash
-   npm run start
+   npm run dev
    ```
 
    Backend will run on `http://localhost:8000`.
