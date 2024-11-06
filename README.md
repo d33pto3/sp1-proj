@@ -47,3 +47,15 @@ First clone the repo.
    ```
 
    Frontend will run on `http://localhost:5173`.
+
+---
+
+## Screenshots
+
+### Screenshot 1
+
+![SS 1](assets/ss_0.png)
+
+### Screenshot 2
+
+![SS 2](assets/ss_1.png)
