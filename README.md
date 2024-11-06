@@ -1,5 +1,7 @@
 # Project Setup
 
+First clone the repo.
+
 ## Backend Setup
 
 1. Navigate to the `backend` folder:
